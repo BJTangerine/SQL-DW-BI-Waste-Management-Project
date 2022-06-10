@@ -8,9 +8,10 @@ Project Files:
 * __DimDate.csv__ - date dimension CSV data.
 * __DimStation.csv__ - station dimension CSV data.
 * __DimTruck.csv__ - truck dimension CSV data.
-* __FactTrips__ - fact CSV data surrounding waste collected in tons and related primary/foreign key IDs.
+* __FactTrips.csv__ - fact CSV data surrounding waste collected in tons and related primary/foreign key IDs.
 * __dim-and-facts-table-create.sql__ - SQL to create the dimension & fact tables.
-* __max_waste_stats-mqt__ - SQL to create MQT in Db2 for max waste stats by city, stationid, and truck type.
+* __max_waste_stats-mqt.sql__ - SQL to create MQT in Db2 for max waste stats by city, stationid, and truck type.
+* __debug-db2-reason-code-1.sql__ - SQL statements used to diagnose issue with error "reason code 1" from trying to query certain tables.
 
 
 Denormalized data:
