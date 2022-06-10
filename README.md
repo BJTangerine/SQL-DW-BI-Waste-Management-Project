@@ -12,7 +12,9 @@ Project Files:
 * __dim-and-facts-table-create.sql__ - SQL to create the dimension & fact tables.
 * __max_waste_stats-mqt__ - SQL to create MQT in Db2 for max waste stats by city, stationid, and truck type.
 
+
 Denormalized data:
+
 ![denormalized-data-sample-image](https://user-images.githubusercontent.com/88465305/173160352-bf2e4c04-122c-4c51-9547-ee96b78afc32.PNG)
 
 
