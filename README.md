@@ -31,5 +31,5 @@ Creating connection between DB2 data warehouse and Cognos Analytics:
 ![IBM Cognos Data Module DB2 Database Connection](https://user-images.githubusercontent.com/88465305/173160186-b34da529-bca8-400f-8c38-a6f4c4536a89.PNG)
 
 
-Dashboard:
+Dashboarding:
 ![IBM Cognos Dashboard](https://user-images.githubusercontent.com/88465305/173160196-b4f59b8f-024b-426c-bc3f-fc3f89cb05e1.PNG)
