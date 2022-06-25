@@ -4,7 +4,7 @@ Technologies: SQL (IBM Db2), BI (IBM Cognos Analytics w/ Watson)
 Normalized waste management dataset and loaded into IBM DB2 database. Created a data module in IBM Cognos Analytics to connect to data warehouse and built simple dashboard highlighting key data and metrics.
 
 Project Files:
-* __denormalized-waste-management-data.csv__ - Sample of denormalized data set.
+* __initial-waste-management-data.csv__ - Sample of starting data set.
 * __DimDate.csv__ - date dimension CSV data.
 * __DimStation.csv__ - station dimension CSV data.
 * __DimTruck.csv__ - truck dimension CSV data.
@@ -14,9 +14,10 @@ Project Files:
 * __debug-db2-reason-code-1.sql__ - SQL statements used to diagnose issue with error "reason code 1" from trying to query certain tables.
 
 
-Denormalized data:
+Initial data:
 
-![denormalized-data-sample-image](https://user-images.githubusercontent.com/88465305/173160352-bf2e4c04-122c-4c51-9547-ee96b78afc32.PNG)
+![initial-data-sample-image](https://user-images.githubusercontent.com/88465305/175765234-e4f99181-ae1c-40a4-942f-9c9af61019ac.PNG)
+
 
 
 Loading the CSVs into IBM DB2:
