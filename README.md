@@ -14,7 +14,7 @@ Project Files:
 * __debug-db2-reason-code-1.sql__ - SQL statements used to diagnose issue with error "reason code 1" from trying to query certain tables.
 
 
-Initial data:
+Sample of initial data:
 
 ![initial-data-sample-image](https://user-images.githubusercontent.com/88465305/175765234-e4f99181-ae1c-40a4-942f-9c9af61019ac.PNG)
 
